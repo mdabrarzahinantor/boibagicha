@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;500&display=swap');
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', 'Hind Siliguri', sans-serif;
+    font-family: 'Fira Code', 'Hind Siliguri', sans-serif;
 }
 .links{
     display: flex;
@@ -40,7 +41,7 @@
     
 }
 .header{
-    background-color:#26d66c;
+    background-color:#f9bc04e8;
     display: flex;
     justify-content: center;
     align-items: center;
